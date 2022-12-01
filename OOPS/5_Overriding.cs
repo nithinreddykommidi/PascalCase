@@ -9,7 +9,7 @@ namespace Practice.OOPS
     internal class _5_Overriding
     {
         // To override inherited method must be abstracti,virtual, or already overriden used with ToString(), polymorphism 
-        public static void Main()
+        public static void Main9()
         {
             Animal animal= new Animal();
             Cat cat = new Cat();

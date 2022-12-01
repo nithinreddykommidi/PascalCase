@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="OOPS\5_arraysofobjects\" />
-  </ItemGroup>
-
 </Project>
